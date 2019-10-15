@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Spinner Example</string>
+
+    <string-array name="KFC">
+        <item>Hot Wings</item>
+        <item>Zinger Box</item>
+        <item>Rice Box</item>
+        <item>Smoky Grilled</item>
+        <item>Mingle Bucket</item>
+    </string-array>
+</resources>
